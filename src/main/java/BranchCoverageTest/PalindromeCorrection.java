@@ -1,4 +1,4 @@
-package org.example.Exo1;
+package BranchCoverageTest;
 
 public class PalindromeCorrection {
     public static boolean isPalindrome(String s) {

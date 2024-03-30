@@ -1,12 +1,9 @@
 package LineCoverageTest;
 
 import org.example.Exo1.Palidrome;
-import org.example.Exo1.PalindromeCorrection;
+import BranchCoverageTest.PalindromeCorrection;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Exo1Test {
     @Test
